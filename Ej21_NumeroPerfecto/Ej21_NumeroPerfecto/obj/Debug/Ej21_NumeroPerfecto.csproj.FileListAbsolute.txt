@@ -1,0 +1,10 @@
+C:\Users\jared\source\repos\Ej21_NumeroPerfecto\Ej21_NumeroPerfecto\bin\Debug\Ej21_NumeroPerfecto.exe.config
+C:\Users\jared\source\repos\Ej21_NumeroPerfecto\Ej21_NumeroPerfecto\bin\Debug\Ej21_NumeroPerfecto.exe
+C:\Users\jared\source\repos\Ej21_NumeroPerfecto\Ej21_NumeroPerfecto\bin\Debug\Ej21_NumeroPerfecto.pdb
+C:\Users\jared\source\repos\Ej21_NumeroPerfecto\Ej21_NumeroPerfecto\obj\Debug\Ej21_NumeroPerfecto.csprojAssemblyReference.cache
+C:\Users\jared\source\repos\Ej21_NumeroPerfecto\Ej21_NumeroPerfecto\obj\Debug\Ej21_NumeroPerfecto.Form1.resources
+C:\Users\jared\source\repos\Ej21_NumeroPerfecto\Ej21_NumeroPerfecto\obj\Debug\Ej21_NumeroPerfecto.Properties.Resources.resources
+C:\Users\jared\source\repos\Ej21_NumeroPerfecto\Ej21_NumeroPerfecto\obj\Debug\Ej21_NumeroPerfecto.csproj.GenerateResource.cache
+C:\Users\jared\source\repos\Ej21_NumeroPerfecto\Ej21_NumeroPerfecto\obj\Debug\Ej21_NumeroPerfecto.csproj.CoreCompileInputs.cache
+C:\Users\jared\source\repos\Ej21_NumeroPerfecto\Ej21_NumeroPerfecto\obj\Debug\Ej21_NumeroPerfecto.exe
+C:\Users\jared\source\repos\Ej21_NumeroPerfecto\Ej21_NumeroPerfecto\obj\Debug\Ej21_NumeroPerfecto.pdb
